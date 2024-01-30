@@ -27,7 +27,6 @@ This repository contains a Bash script for splitting and recombining a private k
 - Enter the number of parts required to reassemble the key.
 - Place the key parts files in the current directory.
 - Press Enter to combine the key parts and reassemble the private key.
-- The reassembled private key will be saved in the file `key_parts_recovered`.
 
 ## Security Notes
 
